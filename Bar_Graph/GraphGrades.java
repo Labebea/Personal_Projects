@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * program that reads in grades and print a bar graph of their distribution.
  *
- * @author Beatrice Labe Lary (A00478039)
+ * @author Beatrice Labe Lary 
  */
 public class GraphGrades {
 
@@ -28,7 +28,7 @@ public class GraphGrades {
         System.out.println("This program prints a bar graph showing the"
                 + " distribution of grades in a class.");
         System.out.println();
-        System.out.println("By Beatrice Labe Lary (A00478039)");
+        System.out.println("By Beatrice Labe Lary ");
         System.out.println();
         System.out.print("...press enter...");
         kbd.nextLine();
